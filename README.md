@@ -1,3 +1,3 @@
-# Website AES Student Section in Erlangen
+# Website Repository of the AES Student Section Erlangen-Nürnberg-Franken
 
-WIP
+Please visit our website under: https://aes-erlangen.github.io/
