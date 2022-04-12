@@ -2,7 +2,7 @@
 on: push
 name: Build and deploy GH Pages
 env:
-  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+  TOKEN: ${{secrets.TOKEN}}
 jobs:
   build:
     name: Deploy
