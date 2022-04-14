@@ -2,7 +2,7 @@
 title = "About us"
 +++
 
-Hi there :wave:
+Hello there :wave:
 
 We are the AES Student Section Erlangen-Nürnberg-Franken. We are people passionate about audio, not only student but anyone with an interest audio, music and engineering. 
 
